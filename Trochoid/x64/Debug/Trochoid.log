@@ -1,0 +1,8 @@
+﻿  main.cpp
+E:\Trochoid\Trochoid\main.cpp(33,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Trochoid\Trochoid\main.cpp(48,19): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Trochoid.vcxproj -> E:\Trochoid\x64\Debug\Trochoid.exe
